@@ -53,9 +53,6 @@ This project involved clustering vehicle trajectories using a dataset generated 
 
 ## Outputs
 - **Visualizations**:
-  - `x_cord` vs. `cur_time` (West-East movement).
-  - `y_cord` vs. `cur_time` (South-North movement).
-  - `x_cord` vs. `y_cord` (complete trajectory paths).
   - Cluster visualizations for spatial and temporal analyses.
 ---
 
